@@ -1,0 +1,1 @@
+This project involves defining three variables A,B, and C with values 5, 10, and 15, respectively. It then adds these three values together to calculate their sum. After that, it computes the average by dividing the sum by 3. Finally, the results for both the sum and the average are displayed in the console.
